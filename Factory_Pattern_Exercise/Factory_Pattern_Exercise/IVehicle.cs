@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Factory_Pattern_Exercise
 {
-    interface IVehicle
+    public interface IVehicle
     {
         public void Drive();
     }

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnd\\Desktop\\TA_repo\\22_C#_Factory_Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj": {}
+    "C:\\Users\\johnd\\Desktop\\Repos\\22_CSharp_Factory-Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnd\\Desktop\\TA_repo\\22_C#_Factory_Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj": {
+    "C:\\Users\\johnd\\Desktop\\Repos\\22_CSharp_Factory-Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnd\\Desktop\\TA_repo\\22_C#_Factory_Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\johnd\\Desktop\\Repos\\22_CSharp_Factory-Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj",
         "projectName": "Factory_Pattern_Exercise",
-        "projectPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\22_C#_Factory_Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj",
+        "projectPath": "C:\\Users\\johnd\\Desktop\\Repos\\22_CSharp_Factory-Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise.csproj",
         "packagesPath": "C:\\Users\\johnd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\22_C#_Factory_Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\obj\\",
+        "outputPath": "C:\\Users\\johnd\\Desktop\\Repos\\22_CSharp_Factory-Pattern\\Factory_Pattern_Exercise\\Factory_Pattern_Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\johnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

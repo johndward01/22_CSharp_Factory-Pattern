@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.exe
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.deps.json
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.dll
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\bin\Debug\netcoreapp3.1\Factory_Pattern_Exercise.pdb
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.dll
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.pdb
+C:\Users\johnd\Desktop\Repos\22_CSharp_Factory-Pattern\Factory_Pattern_Exercise\Factory_Pattern_Exercise\obj\Debug\netcoreapp3.1\Factory_Pattern_Exercise.genruntimeconfig.cache

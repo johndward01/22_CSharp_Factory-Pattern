@@ -8,7 +8,7 @@ namespace Factory_Pattern_Exercise
     {
         public void Drive()
         {
-            Console.WriteLine("Building a new BigRig!");
+            Console.WriteLine("Driving a new BigRig!");
         }
     }
 }

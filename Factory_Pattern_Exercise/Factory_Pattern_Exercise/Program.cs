@@ -1,29 +1,37 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Factory_Pattern_Exercise
 {
     class Program
     {
         static void Main(string[] args)
-        {            
-            Console.WriteLine("What type of vehicle would you like to create?");
-            Console.WriteLine($"Type 1 for: Car" +
-                              $"Type 2 for: Motorcycle" +
-                              $"Type 3 for: BigRig");
-            var userInput = int.Parse(Console.ReadLine());
+        {
+            bool finished = true;
+            List<IVehicle> vehicles = new List<IVehicle>();
 
-            if (userInput == 1)
+            while (finished == true)
             {
-                VehicleFactory.GetVehicle(4);
+                int vehicleType = UI.GetVehicleType();
+                var vehicleList = UI.GetAndAddToVehicleList(vehicles, vehicleType);
+                UI.TraverseVehicleList(vehicleList);
+                finished = UI.QuitOrContinue();
             }
-            else if (userInput == 2)
-            {
-                VehicleFactory.GetVehicle(2);
-            }
-            else
-            {
-                VehicleFactory.GetVehicle(18);
-            }
+
+
+            
+
+
+
+
+            
+
+            
+            //foreach (var vehicle in vehicles)
+            //{
+            //    vehicle.Drive();
+            //}
+
         }
     }
 }
