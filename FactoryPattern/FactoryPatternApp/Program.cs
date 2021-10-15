@@ -6,12 +6,12 @@ namespace FactoryPatternApp
     {
         static void Main(string[] args)
         {
-            //Ask the user for the phone they wish to create
+            ////Ask the user for the phone they wish to create
             Console.WriteLine("What kind of phone do you want to create?");
             string userPhone = Console.ReadLine();
 
             //Choose the correct type of phone to create through the factory method that implements the ICallable interface
-            ICallable phone = PhoneFactory.GetPhone(userPhone);
+            var phone = PhoneFactory.GetPhone(userPhone);
             phone.Build();
             Console.ReadLine();
 

@@ -12,5 +12,10 @@ namespace FactoryPatternApp
             ConsoleLogging.PhoneBuildDialogue();
             Console.WriteLine("Building an Google phone!");
         }
+
+        public void Call()
+        {
+            Console.WriteLine("Google Voice Calling"); 
+        }
     }
 }

@@ -15,22 +15,8 @@ namespace Factory_Pattern_Exercise
                 int vehicleType = UI.GetVehicleType();
                 var vehicleList = UI.GetAndAddToVehicleList(vehicles, vehicleType);
                 UI.TraverseVehicleList(vehicleList);
-                finished = UI.QuitOrContinue();
+                finished = UI.QuitOrContinue(); 
             }
-
-
-            
-
-
-
-
-            
-
-            
-            //foreach (var vehicle in vehicles)
-            //{
-            //    vehicle.Drive();
-            //}
 
         }
     }

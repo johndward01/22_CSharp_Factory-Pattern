@@ -4,9 +4,8 @@ using System.Text;
 
 namespace FactoryPatternApp
 {
-    public interface ICallable
+    public interface ITexting : ICallable
     {
-        void Call();
-        void Build();
+        void SendText();
     }
 }

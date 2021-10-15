@@ -11,7 +11,7 @@ namespace FactoryPatternApp
     {
         /// <summary>
         /// Takes the users input and returns a phone type that conforms to the ICallable interface
-        /// </summary>
+        /// </summary
         /// <param name="phoneType"></param>
         /// <returns>
         /// ICallable

@@ -9,5 +9,10 @@ namespace FactoryPatternApp
             ConsoleLogging.PhoneBuildDialogue();
             Console.WriteLine("Building an Android phone!");
         }
+
+        public void Call()
+        {
+            Console.WriteLine("Android Voice Calling");
+        }
     }
 }

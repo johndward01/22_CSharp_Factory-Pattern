@@ -12,5 +12,10 @@ namespace FactoryPatternApp
             ConsoleLogging.PhoneBuildDialogue();
             Console.WriteLine("Building an Apple phone!");
         }
+
+        public void Call()
+        {
+            Console.WriteLine("Apple Voice Service"); 
+        }
     }
 }
